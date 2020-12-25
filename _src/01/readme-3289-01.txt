@@ -1,0 +1,39 @@
+Readme for Chapter 1 code, 'Moodle for 4-9 year olds'.
+
+Note, the code in this directory is currently "Alpha" - that is, it needs more testing and more work. In particular, it may generate security warnings in Internet Explorer! And functionality may change.
+
+
+Code in this directory is Copyright Nicholas Freear, and licensed under the GNU General Public License [http://www.gnu.org/copyleft/gpl.html] unless otherwise stated.
+
+Acknowledgements:
+* jQuery - Copyright John Resig and dual licensed under the MIT or GPL Version 2 licenses.
+* (text-to-speech) Webanywhere - service hosted by Washington University, at http://webanywhere.cs.washington.edu/
+
+
+TODO:
+1. Negotiate the use of alternate services, eg. jTalkPlugin.
+2. Investigate use of proxy for Javascript.
+3. I may provide testing/diagnostic tool, for admins.
+4. Migrate from jQuery to YUI - depends on point 1.
+
+
+Install:
+
+To install these plugins, you need administrator access to an installation of Moodle 1.9.x.
+
+1. Unzip the code and copy to the appropriate directory in the Moodle installation on your server. For example, on Redhat Linux, the 'simplespeak' directory may go in /var/www/moodle/filter/ . On Windows/XAMPP 'simplespeak' may go in C:\xampp\htdocs\moodle\filter\
+
+2. Log in to Moodle as administrator.
+
+3. Go to the home page. In the "Site administration" block click on the Modules link - it will expand to show links for "Activities", Blocks and Filters. Click on the appropriate link (eg. 'Filters' in the case of SimpleSpeak), find the plugin in the list and enable it by clicking the 'eye' icon.
+
+
+Usage:
+
+1. Simple example. Type the following in a Moodle editor/text area:
+
+    [Speak] Hello World! [/Speak]
+
+
+
+[End.]

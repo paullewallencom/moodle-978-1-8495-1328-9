@@ -1,0 +1,29 @@
+/**
+ * Calculated Objects qtype
+ */
+.qco-objects, .qco-text{font-family:'Comic Sans MS',serif; color:#040; font-size:1.3em;}
+.qco-objects { border:1px solid #ccc; padding:5px 0; }
+.qco-objects div, .qco-objects center  { width:45%; float:left; }
+.qco-objects .op{ width:9%; float:left; text-align:center; font-size:3.2em; }
+.qco-objects img{ vertical-align:middle; }
+.qco-text { margin:0 3.5em .8em; }
+
+/*.que.calculatedobjects ul{margin:0;padding:0;}
+.que.calculatedobjects li{
+  list-style:none; display:inline-block;
+  text-indent:-9999px;
+  background-repeat:no-repeat; background-position:top center;
+  width:72px; height:74px;
+}
+.qco-objects {text-align:center;}
+.qco-objects .op{font:3.2em/.9em "Comic Sans MS",sans-serif;}
+.qco-objects .op hr{width:7em; height:4px; background:#444; margin:20px auto;}
+.que.calculatedobjects .unknown li, .qco-objects .op{text-indent:0;}
+.que.calculatedobjects .apple li {background-image:url('./pix/apple-75.png')}
+.que.calculatedobjects .orange li{background-image:url('./pix/orange-juice-75.png')}
+.que.calculatedobjects .pear li  {background-image:url('./pix/pear-75.png')}
+.que.calculatedobjects .pineapple li{background-image:url('./pix/pineapple-75.png')}
+.que.calculatedobjects .cookie li {background-image:url('./pix/cookie-tulliana-75.png')}
+.que.calculatedobjects .coffee li{background-image:url('./pix/coffee-icon-75.png')}
+.que.calculatedobjects .walnut li{background-image:url('./pix/walnut-60.png')}
+*/

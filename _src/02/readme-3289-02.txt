@@ -1,0 +1,13 @@
+Readme for Chapter 2 code, 'Moodle for 4-9 year olds'.
+
+Note, the code in this directory is currently "Alpha" - that is, it needs more testing and more work. Functionality may change.
+
+Code in this directory is Copyright Nicholas Freear, and licensed under the GNU General Public License [http://www.gnu.org/copyleft/gpl.html] unless otherwise stated.
+
+Acknowledgements:
+* None
+
+Install:
+* See file, moodle/question/type/calculatedobjects/00readme.txt
+
+[End.]
